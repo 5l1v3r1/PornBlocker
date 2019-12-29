@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\PornBlocker\PornBlocker\bin\Debug\PornBlocker.exe
+C:\Users\Admin\source\repos\PornBlocker\PornBlocker\bin\Debug\PornBlocker.pdb
+C:\Users\Admin\source\repos\PornBlocker\PornBlocker\obj\Debug\PornBlocker.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PornBlocker\PornBlocker\obj\Debug\PornBlocker.exe
+C:\Users\Admin\source\repos\PornBlocker\PornBlocker\obj\Debug\PornBlocker.pdb
